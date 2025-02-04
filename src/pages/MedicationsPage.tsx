@@ -1,4 +1,4 @@
-import React from 'react';
+
 import MedicationSchedule from '../components/MedicationSchedule';
 import { Search, Calendar, Plus } from 'lucide-react';
 
