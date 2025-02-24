@@ -72,6 +72,7 @@ function App() {
       <Route
         path="/patient/:id"
         element={
+          //pateitn dashboard
 
             <PatientDetails />
 
